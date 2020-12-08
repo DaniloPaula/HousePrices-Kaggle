@@ -9,3 +9,4 @@ data_cleaned/
 *.xlsx
 *.xlsm
 *.doc
+models/.ipynb_checkpoints/RandomForest-checkpoint.ipynb
